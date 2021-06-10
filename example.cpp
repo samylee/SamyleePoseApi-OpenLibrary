@@ -21,7 +21,7 @@ int main()
 	while (true)
 	{
 		// image input
-		Mat src = imread("test.jpg");
+		Mat src = imread("imgs/test.jpg");
 		if (src.empty())
 			return -1;
 
