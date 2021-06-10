@@ -5,7 +5,7 @@ GPU Real-time PoseApi (windows only, Open Library)
 coming soon
 
 # Example result
-![](demo.jpg)  
+![](imgs/demo.jpg)  
 
 # Reference
 https://blog.csdn.net/samylee
