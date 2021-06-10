@@ -6,7 +6,7 @@ GPU Real-time PoseApi (windows only, Open Library)
 * NVIDIA-GPU (GTX1080/1080Ti, RTX2080/2080Ti)
 * Windows10/7
 * VC14.1/15 (VS2017 or higher)
-* [third_part_dll](链接：https://pan.baidu.com/s/12OXitndIZf-s8gWs2kl1jw) Password: `izy2`
+* [third_part_dll](https://pan.baidu.com/s/12OXitndIZf-s8gWs2kl1jw) Password: `izy2`
 
 ## Algorithm efficiency
 | Algorithm | mAP | Speed/FPS | model  |
