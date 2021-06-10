@@ -19,5 +19,5 @@ GPU Real-time PoseApi (**Windows only**, Open Library)
 ![](imgs/demo.jpg)  
 
 # Reference
-https://blog.csdn.net/samylee
-https://github.com/MVIG-SJTU/AlphaPose
+* https://blog.csdn.net/samylee
+* https://github.com/MVIG-SJTU/AlphaPose
